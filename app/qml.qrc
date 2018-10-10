@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Actor.qml</file>
+        <file>Gameplay.qml</file>
+        <file>Menu.qml</file>
+        <file>TileManager.qml</file>
+        <file>Tile.qml</file>
+        <file>Settings.qml</file>
+        <file>LevelData.qml</file>
+        <file>gameprototype.qml</file>
+        <file>Death.qml</file>
+        <file>Button.qml</file>
+        <file>sprites/runright.png</file>
+        <file>sprites/runleft.png</file>
+        <file>sprites/jumpright.png</file>
+        <file>sprites/jumpleft.png</file>
+        <file>sprites/idleright.png</file>
+        <file>sprites/idleleft.png</file>
+        <file>sprites/123.jpg</file>
+        <file>sprites/backg.png</file>
+        <file>tiles/tile02.png</file>
+        <file>tiles/Bone (4).png</file>
+        <file>tiles/Bone (1).png</file>
+        <file>tiles/tile-4.png</file>
+        <file>tiles/tile-5.png</file>
+        <file>tiles/tile-6.png</file>
+        <file>gameprototype.qmlproject</file>
+    </qresource>
+</RCC>
