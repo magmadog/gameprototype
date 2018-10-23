@@ -7,7 +7,7 @@
         <file>Tile.qml</file>
         <file>Settings.qml</file>
         <file>LevelData.qml</file>
-        <file>gameprototype.qml</file>
+        <file>game.qml</file>
         <file>Death.qml</file>
         <file>Button.qml</file>
         <file>sprites/runright.png</file>
