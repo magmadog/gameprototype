@@ -16,7 +16,6 @@ Window {
         onGameSettings: parent.state = "settings"
     }
 
-
     Gameplay {
         id: gameplay
         onGameStopped: parent.state = "menu"
