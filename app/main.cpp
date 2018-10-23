@@ -21,7 +21,7 @@ int main(int argc, char *argv[])
         qmlRegisterType<Enemy>("com.Enemy",1,0,"Enemy");
         qmlRegisterType<herocontrol>("com.Hero",1,0,"Herocontrol");
 
-    engine.load(QUrl(QStringLiteral("qrc:/gameprototype.qml")));
+    engine.load(QUrl(QStringLiteral("qrc:/gameprototype.qmlproject")));
     if (engine.rootObjects().isEmpty())
         return -1;
 
